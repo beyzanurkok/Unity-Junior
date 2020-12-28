@@ -5,7 +5,7 @@ Unity' nin yayınlamış olduğu junior pathway'de verilen hazır assetlerle olu
 
 Paket; skybox , araçlar , yol ve engel nesnelerinin tümünü içeriyor.
 
-![](images/Prototype1-e.png)
+![](ProtoType 1.gif)
 
 
 Araç ok tuşlarını kullanarak sağ, sol, ileri ,geri verdiğimiz hız ile hareket edebiliyor,engellere çarptığında engeller, ağırlığına bağlı olarak sürükleniyor ya da yuvarlanıyor.
