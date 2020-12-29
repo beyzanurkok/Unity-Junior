@@ -1,20 +1,23 @@
 # Unity-ProtoType 1
 
 
-Unity' nin yayınlamış olduğu junior pathway'de verilen hazır assetlerle oluşturulmuş bir proje:
+A project created with  assets of junior pathway published by Unity:
 
-Paket; skybox , araçlar , yol ve engel nesnelerinin tümünü içeriyor.
+The package contains all of the skybox , vehicles , road and obstacles objects.
 
-<img src="images/Prototype1-a.png" width=470 height=230>                    <img src="images/Prototype1-f.png" width=470 height=230>
-
-
-Araç ok tuşlarını kullanarak sağ, sol, ileri ,geri verdiğimiz hız ile hareket edebiliyor,engellere çarptığında engeller, ağırlığına bağlı olarak sürükleniyor ya da yuvarlanıyor.
+![](ProtoType1.gif)
 
 
-<img src="images/Prototype1-b.png" width=470 height=230>                    <img src="images/Prototype1-c.png" width=470 height=230>
+The vehicle can move right, left, forward, backward using the arrow keys.When vehicle hits obstacles, obstacles are drag or roll, depending on weights.
+
+
+
+<img src="images/Prototype1-b.png" width=470 height=230>                <img src="images/Prototype1-c.png" width=470 height=230>
 
 
  
+### References
 
+- https://learn.unity.com
 
 
