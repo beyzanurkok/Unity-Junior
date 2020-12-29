@@ -12,7 +12,7 @@ The vehicle can move right, left, forward, backward using the arrow keys.When ve
 
 
 
-<img src="images/Prototype1-b.png" width=450 height=250>  <img src="images/Prototype1-c.png" width=450 height=250>
+<img src="images/Prototype1-b.png" width=445 height=250>  <img src="images/Prototype1-c.png" width=445 height=250>
 
 
  
