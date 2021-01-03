@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PropellerSpin : MonoBehaviour
 {
+    //script for propeller rotation
     private float turnSpeed = 100000.0f;
     // Start is called before the first frame update
     void Start()
