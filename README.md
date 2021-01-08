@@ -38,8 +38,18 @@ The package contains all of the skybox , farmers and animals objects.
 
 ![](Challenge2.gif)
 
-the farmer throws the dog to catch the ball.Balls disappear when dogs touch the them.The x-axis positions and colors of the balls are randomly selected.The farmer's dog throwing time has been shortened.Objects are destroyed when they leave the scene
+the farmer throws the dog to catch the ball.Balls disappear when dogs touch the them.The x-axis positions and colors of the balls are randomly selected.The farmer's dog throwing time has been shortened.Objects are destroyed when they leave the scene.
 
+# Unity-ProtoType 3
+
+A project created with  assets of junior pathway published by Unity:
+
+The package contains all of the skybox , farmers ,musics,sounds, obstacles and particle objects.
+
+![](ProtoType3.gif)
+
+
+The farmer jumps when the space key is pressed.The goal is to move forward without hitting obstacles.The farmer seems to move on but just the background shifts and repeats.Obstacles are created at certain time intervals and destroyed when they leave the scene.The project has game music.When the farmer hits obstacles crash sound and smoke particular effect occurs. The farmer has animations of jumping, running and dying.
 
 
 
