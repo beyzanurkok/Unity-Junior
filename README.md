@@ -62,6 +62,18 @@ The package contains all of the balloon ,musics,sounds, bombs and particle objec
 
 The balloon jumps when the space key is pressed.The goal is to move forward without hitting bombs and collect dollars.The balloon seems to move on but just the background shifts and repeats.bombs and dollars are created at certain time intervals and destroyed when they leave the scene.The project has game music.When the balloon hits bombs crash sound and smoke particular effect and when it collect dolars the firework particular effect occurs.
 
+# Unity-ProtoType 4
+
+A project created with  assets of junior pathway published by Unity:
+
+The package contains all of the ball textures ,shapes for powerup and powerup indicater and platform.
+
+![](ProtoType4.gif)
+
+
+
+The goal of the prototype is to keep the ball assigned as the player on the platform without falling on the platform.The camera rotates around the platform with the left-right arrow keys , the platform seems to be rotating and in this way the local axis of the ball changes.Enemy balls are created in random locations and they follow the player ball and try to drop it from the platform.The number of enemy balls increases one per turn and they are destroyed when they leave the scene.Powerup appears in random locations, when player ball get it(powerup) the indicator appears at the bottom of the player and it(player ball) has the power to quickly push enemies in the opposite direction.The player ball is controlled with the up and down arrow keys.When the player takes the powerup, the indicator appears at the bottom of the player.
+
 
 
 
