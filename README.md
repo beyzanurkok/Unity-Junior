@@ -88,7 +88,7 @@ The goal of the prototype is to keep the ball assigned as the player on the plat
 
 # Unity-Challenge 5
 
-![](ProtoType5.gif)
+![](Challenge5.gif)
  
 ### References
 
