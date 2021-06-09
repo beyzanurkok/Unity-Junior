@@ -96,15 +96,15 @@ The aim of the challenge is to prevent spawned enemy balls from entering the goa
 
 # VR 8
 
-![](Hnet.com-image (1).gif)
+![](VR8.gif)
 
 # VR 11
 
-![](Hnet.com-image (2).gif)
+![](VR11.gif)
 
 # Bouncing Ball
 
-![](Hnet-image (7).gif)
+![](Ball.gif)
 
 
 
